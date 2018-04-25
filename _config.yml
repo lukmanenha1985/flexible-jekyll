@@ -12,10 +12,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Lukman Nurhakim # add your name
 author-img: ![test](https://user-images.githubusercontent.com/38723012/39243838-17fbc8c6-488f-11e8-9dfa-fe8ca1a45702.jpg) # add your photo
 about-author: Open-Journalism # add description
-social-twitter: # add your Twitter handle
+#social-twitter: # add your Twitter handle
 social-facebook: Lukman Enha# add your Facebook handle
 social-github: lukmanenha198 # add your Github handle
-social-linkedin: # add your Linkedin handle
+#social-linkedin: # add your Linkedin handle
 social-email: lukmanenha1985@gmail.com # add your Email address
 
 # Disqus
