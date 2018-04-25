@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Lukman Nurhakim # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: ![test](https://user-images.githubusercontent.com/38723012/39243838-17fbc8c6-488f-11e8-9dfa-fe8ca1a45702.jpg) # add your photo
 about-author: Open-Journalism # add description
 social-twitter: # add your Twitter handle
 social-facebook: Lukman Enha# add your Facebook handle
